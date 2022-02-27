@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions from the armie, propounded by Cornet Joyce (who lately guarded His Majesties person from Holmby) to all free commoners within the kingdome of England and dominion of Wales. Wherein is more fully set forth, their further resolution and proceedings, concerning the Kings Majesties royall person, the preservation of this nation, and touching every member that challenges an interest in this kingdome. ; Whereunto is annexed, the copy of another letter sent from the Kings Most Excellent Majesty, and read in the high and honourable court of Parliament. ; Printed for the use and satisfaction of the whole kingdome.</title>
+            <author>Joyce, George, fl. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87387</idno>
+            <idno type="STC">Wing J1122</idno>
+            <idno type="STC">ESTC R201711</idno>
+            <idno type="EEBO-CITATION">45097811</idno>
+            <idno type="OCLC">ocm 45097811</idno>
+            <idno type="VID">171395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171395)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions from the armie, propounded by Cornet Joyce (who lately guarded His Majesties person from Holmby) to all free commoners within the kingdome of England and dominion of Wales. Wherein is more fully set forth, their further resolution and proceedings, concerning the Kings Majesties royall person, the preservation of this nation, and touching every member that challenges an interest in this kingdome. ; Whereunto is annexed, the copy of another letter sent from the Kings Most Excellent Majesty, and read in the high and honourable court of Parliament. ; Printed for the use and satisfaction of the whole kingdome.</title>
+                  <author>Joyce, George, fl. 1647.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ellson,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>July 17. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171395:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>NEW PROPOSITIONS FROM THE ARMIE, PROPOUNDED By Cornet <hi>JOYCE</hi> (who lately guar<g ref="char:EOLhyphen"/>ded His Majeſties Perſon from <hi>Holmby</hi>) to all free Commoners within the Kingdome of <hi>England</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>
+               <hi>Wherein is more fully ſet forth,</hi> Their further Reſolution and Proceedings, concerning the Kings Majeſties Royall Perſon, the preſervation of this Nation, and touching every member that challenges an intereſt in this KINGDOME.</p>
+            <p>
+               <hi>Whereunto is annexed,</hi> The Copy of another Letter ſent from the Kings moſt Excellent Majeſty, and read in the High and Honourable Court of Parliament.</p>
+            <p>Printed for the uſe and ſatisfaction of the whole Kingdome.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Ellſon,</hi> July 17. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:171395:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:171395:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>The Kings Majeſties laſt Meſſage, to His High<g ref="char:EOLhyphen"/>neſſe, <hi>James</hi> Duke of <hi>York.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TIme being my greateſt favourite, and the proceedings of this object of time, the chiefe ſupporter of my enſuing intelligence, I ſhall here (according to your deſire, repreſent unto you, ſome particulars very remarkable, now in diſputation be<g ref="char:EOLhyphen"/>twixt the King, Parliament, and Army, to<g ref="char:EOLhyphen"/>gether with a brief ſummary, (or Copy) of the Kings Majeſties laſt Deſires, communi<g ref="char:EOLhyphen"/>cated to his Son, <hi>James</hi> Duke of <hi>York,</hi> writ<g ref="char:EOLhyphen"/>ten by his Majeſties own hand; which was, (as we heare,) preſented to His Highneſſe, by the Right Honourable, <hi>Algernon Piercy,</hi> Earle of <hi>Northumberland;</hi> the Copy, or effect whereof followeth; beginning in theſe words <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>IAMES,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Deſire and do earneſtly requeſt, that you may be per<g ref="char:EOLhyphen"/>mitted with your Brother and Siſter, to come downe to
+<pb facs="tcp:171395:3"/>
+                     <!-- PDF PAGE 21 -->ſee me, and therefore I deſire you to ask leave for the ob<g ref="char:EOLhyphen"/>taining of the ſame, to accompany me for the ſpace of awo or three dayes; And becauſe it is my earneſt deſire to ſee you, I ſhall be williag, (rather then not to enjoy this happineſse, that you may be permitted to come to dine with me, at ſome convenient place, and to returne the ſame night, it may be ſome will conjecture, that you will be drawn away by the Army, but for your ſafe re<g ref="char:EOLhyphen"/>turne again, the Generall Sir <hi>Thomas Fairfax</hi>and all his Officers hath engaged themſelves for it. So God bleſse you.</p>
+                  <closer>
+                     <signed>Your loving Father <hi>CHARLES R.</hi>
+                     </signed>
+                     <dateline>Cauſan, <date>the 4. of July, 1647.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Since the preſenting of this Letter to his Highneſſe, and acquainting both Houſes with the ſame; we have received Intelligence, that the ſaid honourable Court, hath gave their aſſent and reſolved, that His High<g ref="char:EOLhyphen"/>neſſe the Duke of <hi>York,</hi> together with the reſt of the Kings Children, ſhall have leave to go down to ſee their Royall Father, the King, there to reſide the ſpace of two dayes; and we heare that the Right Honou<g ref="char:EOLhyphen"/>rable the Earle of Northumberland is to attend them down.</p>
+            <p>Having no more (at preſent) to communicate unto you, concerning the King and his Princely iſſue, I ſhall reſerve you to the incloſed paper, and remain</p>
+            <closer>
+               <dateline>Cauſan, <date>Iuly 16. 1647.</date>
+               </dateline>
+               <signed>Your affectionate friend, <hi>Iohn Willis.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="propositions">
+            <pb facs="tcp:171395:3"/>
+            <!-- PDF PAGE 21 -->
+            <head>A Copy of a Paper, containing <hi>4.</hi> Propoſitions, ſet forth by Cornet <hi>Joyce,</hi> in behalfe of the Kingdome.</head>
+            <p n="1">I. Now fellow Commoners, you who are borne to as large priviledges and immunities as any people on the earth, which you may all challenge as your birth-right, leſt you ſhould be induced through the ſubtilty of ſome litigious Lawyers, or through the policy and ſpecious pretences of any man whatſoe<g ref="char:EOLhyphen"/>ver to judge our action of guarding his Majeſty from <hi>Holmby</hi> to be illegall, and contrary to the truſt repo<g ref="char:EOLhyphen"/>ſed in us, aſſure your ſelves that action of ours was not a raſh precipitant enterpriſe, as ſome ſay, but challenges the law of Nature, Nations, this Kingdome, and our Commiſſioners derived from the Parliament for its foundation.</p>
+            <p>The lyw of Nature vindicates us, for as in a natu<g ref="char:EOLhyphen"/>rall body which is compoſed of ſundry members, may lawfully ſeek its own preſervation as from in<g ref="char:EOLhyphen"/>ward diſtempers, or outward dangers that threaten its ruine, ſo likewiſe may a politicall body do, if the head be in danger, the foot ought to run, and the hand to act for its preſervation, and in this endeavour every member particularly, as well as joyntly, is ob<g ref="char:EOLhyphen"/>liged, ſo that if one hand be cut off, one foot lame, one eye forth, the other hand foot and eye are not hereby diſingaged, but the more firmely bound to put forth their utmoſt powers for the bodies fence.</p>
+            <p n="2">II. The Law of Nations warrants us, every Na<g ref="char:EOLhyphen"/>tion inviolably maintaining this, that every member
+<pb facs="tcp:171395:4"/>
+               <!-- PDF PAGE 22 -->in the Nation ought to preſerve the Nation as much as in him lyes; It is a univerſall principle, <hi>non nobis ſolum nati ſumus, &amp;c.</hi> We are not born for our ſelves alone; but the <hi>Country</hi> in which we live challenges an inte<g ref="char:EOLhyphen"/>reſt in us, this principle made many rejoyce in dying, eſteeming it, <hi>dulce &amp; decorum pro patria mori.</hi>
+            </p>
+            <p n="3">3. <hi>The Law of this Kingdome</hi> (by which we may expect to ſtand or fall) ſecures us in this Kingdome, we have this <hi>Maxime,</hi> that <hi>ſolus populi is ſuprema lex,</hi> The ſafety of the people is the ſupremeſt law; this was the hinge we moved upon, the Kingdomes ſafe<g ref="char:EOLhyphen"/>ty was endangered, and without a ſpeedy application of a timely preſervative was likely to be conſumed: the beſt preſerva<g ref="char:EOLhyphen"/>tive we could ſee, was the ſecurity of his Ma<g ref="char:EOLhyphen"/>jeſties perſon, which our act hath effected. Whoſe enemies are ſo dull, and whoſe un<g ref="char:EOLhyphen"/>derſtanding is ſo ſtupified &amp; ſottiſhly blind, but may remember and know what a ſad diſaſter hath befallen the Kingdome, in the expence of ſo much blood and treaſure, by the ſurpriſing of his Majeſties Perſon in the
+<pb facs="tcp:171395:4"/>
+               <!-- PDF PAGE 22 -->late warres? who can but know, had they not had his perſon for their deſignes had proved abortive: We well know there was a deſigne to ſeize on his Majeſty, to raiſe a new Army, and unnaturally to involve this Kingdome in its own blood, and ſo to ren<g ref="char:EOLhyphen"/>der our latter end miſerably worſe then our beginning, but this we thought our ſelves bound to prevent if poſſible, which we ſtill judge and doubt not to prove it, and is yet lawfull for us to doe. As the King is by the law of this Kingdome bound to govern and ſecure us according to the Law, ſo are wee engaged to ſecure his Perſon againſt the vio<g ref="char:EOLhyphen"/>laters of the Law, which we have, through the bleſſing of God accompliſhed, Our end was not his enthrallment, bondage and ru<g ref="char:EOLhyphen"/>ine, as by our actions may appear, but his ſafety, and the Kingdoms preſervation, which otherwiſe we juſtly fear, had both been en<g ref="char:EOLhyphen"/>dangered; ſuppoſe the King through igno<g ref="char:EOLhyphen"/>rance of traitors intention to deſtroy His Perſon or His Kingdome, ſhould expoſe him<g ref="char:EOLhyphen"/>ſelf to the mercy of him that ſought his life, do you imagine it would be treaſonable for
+<pb facs="tcp:171395:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 23 -->any one to remove his Majeſtie though without his conſent from the place the traytor ſought his life in, and to preſerve him? but the caſe is yet more faire for us, His judgement being ſatisfied, his will was likewiſe concurring to his remove, we hope this our action will be recented in good part by all the Nati<g ref="char:EOLhyphen"/>on for whoſe good it was effected. Had the King been ſurpriſed, another army been under his name raiſed, the Nation once more wallowed in its owne blood; then ſurely but too late, would the people have cryed out, oh that ſome had been ſtirred up to have ſtood in this breach.</p>
+            <p n="4">IIII. The Commiſſion from the Parliament (whom ſome ſay though with more boldneſſe then judge<g ref="char:EOLhyphen"/>ment, more malice then wiſdome, and more envy then prudence or honeſty, wee have rebelled againſt and acted contrary to in this action) acquits us, for by our Commiſſion we are bound to ſeek the preſerva<g ref="char:EOLhyphen"/>tion of the Kings perſon, whether we have not ſo done let all the Kingdome judge: what hurt to his perſon have we done? what hurt to the Kingdome have we done? we are not conſcions to our ſelves that we have in this done amiſſe, who hath cauſe to complain, ſurely none can nor will, except thoſe who had thought to have made all men dance after their pipes, kiſſe their hands, and reſigne up their birth<g ref="char:EOLhyphen"/>rights, liberties and lives to their <hi>arbitrary</hi> and <hi>tyran<g ref="char:EOLhyphen"/>nicall, lawleſse, boundleſse</hi> wills, theſe <hi>Haman</hi>-like are mad to think a poore <hi>Mordecai</hi> will not ſtand cap in hand, bow his knee, and bend unto them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
